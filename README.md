@@ -18,3 +18,8 @@ With Version 2.0, we have integrated the capabilities of both ChatGPT and Llama 
 
 **Easy-to-Use**: A user-friendly interface that allows you to seamlessly interact with the AI and create poems effortlessly.
 
+
+![image](https://github.com/Yoonhee-Uni/ai-poet/assets/119461817/e60579db-1c4b-459c-8a53-179025e5f3f2)
+![image](https://github.com/Yoonhee-Uni/ai-poet/assets/119461817/0152d36e-2ffc-4167-bc7b-e5db820cfc6f)
+![image](https://github.com/Yoonhee-Uni/ai-poet/assets/119461817/5c5aa2f0-7b55-4eaf-8d65-7bcdaf46df3b)
+
